@@ -1,0 +1,1 @@
+Welcome to the Anomaly Detection for Time Series Data repository! This interactive guide is designed to help you understand and implement anomaly detection techniques for time series data. Whether you're a data scientist, analyst, or enthusiast, this repository aims to provide valuable insights and resources for detecting anomalies in time series datasets.
